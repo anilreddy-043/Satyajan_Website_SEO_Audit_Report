@@ -6,6 +6,9 @@ The **Website SEO Audit Report** is a website analysis project focused on evalua
 
 This project documents SEO audit findings and provides insights into website optimization, search engine accessibility, content quality, and technical SEO improvements.
 
+<img width="1350" height="892" alt="image" src="https://github.com/user-attachments/assets/515ab518-e70c-41d8-89fc-7a9757644b72" />
+
+
 ## 🎯 Project Objectives
 
 - Evaluate website SEO performance.
